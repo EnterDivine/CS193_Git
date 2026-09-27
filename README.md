@@ -1,0 +1,2 @@
+# This is a repo created as a submission of Purdue's CS193 Class
+This repo's main purpose is to help us students get used to git and source control and know how to initialize a git project, stage changes, commit them to maintain version history, and finally push all our commits to a remote in an existing repo or publish a repo with a commit.
